@@ -12,4 +12,4 @@ The design that I have been implemented is from Figma Community, you can downloa
   
 ## 🎥 Demo
   
-  ![video Demo]('./assets/instagram_ui_demo.mp4')
+  ![video Demo]('assets/instagram_ui_demo.mp4')
