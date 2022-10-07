@@ -1,2 +1,2 @@
 # flutter-ui
- My Collection Mobile App User Interface with Flutter
+ My Collections Mobile App User Interface with Flutter
